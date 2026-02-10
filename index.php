@@ -238,7 +238,7 @@
                     <h1 class="display-6 mb-4 wow fadeIn" data-wow-delay="0.2s">Join Hands, Change the World</h1>
                     <p class="mb-4 wow fadeIn" data-wow-delay="0.3s">Every hand extended in kindness brings us closer to
                         a world free from suffering. Be part of a global movement dedicated to building a future where
-                        equality and compassion thrive.</p>
+                        equality and compassion thrive for a better living.</p>
                     <div class="row g-4 pt-2">
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
                             <div class="h-100">
